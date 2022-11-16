@@ -1,10 +1,19 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <HeaderAnimeOn />
+  <CarroselAnimeOn />
+
 </template>
+
+<script>
+
+import CarroselAnimeOn from './components/CarroselAnimeOn.vue';
+import HeaderAnimeOn from './components/HeaderAnimeOn.vue';
+
+
+export default {
+    components: { HeaderAnimeOn, CarroselAnimeOn }
+}
+</script>
 
 <style>
 #app {
