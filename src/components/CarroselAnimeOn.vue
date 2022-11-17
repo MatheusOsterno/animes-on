@@ -8,7 +8,8 @@
       }"
       :navigation="true"
       :modules="modules"
-      class="mySwiper">
+      class="mySwiper"
+>
       <swiper-slide><img src="@/img/hero/1046568.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="@/img/hero/13.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="@/img/hero/download.jpg" alt=""></swiper-slide>
@@ -24,6 +25,8 @@
   // Import Swiper styles
   import "swiper/css";
   
+  import "swiper/css/pagination";
+  import "swiper/css/navigation";
   
   // import required modules
   import { Pagination, Navigation } from "swiper";
