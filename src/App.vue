@@ -1,17 +1,20 @@
 <template>
   <HeaderAnimeOn />
   <CarroselAnimeOn />
-
+  <SectionMain />
+  <FooterAnimeOn />
 </template>
 
 <script>
 
 import CarroselAnimeOn from './components/CarroselAnimeOn.vue';
 import HeaderAnimeOn from './components/HeaderAnimeOn.vue';
+import SectionMain from './components/SectionMain.vue';
+import FooterAnimeOn from './components/FooterAnimeOn.vue'
 
 
 export default {
-    components: { HeaderAnimeOn, CarroselAnimeOn }
+    components: { HeaderAnimeOn, CarroselAnimeOn, SectionMain, FooterAnimeOn }
 }
 </script>
 
