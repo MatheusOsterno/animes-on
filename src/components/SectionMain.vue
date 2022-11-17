@@ -15,7 +15,7 @@
                                     <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div>ß
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
