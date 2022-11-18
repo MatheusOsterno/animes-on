@@ -23,7 +23,7 @@
           <a class="nav-link" href="#">Filmes</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link">Disabled</a>
+          <a class="nav-link" disabled>Mangas</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
@@ -42,6 +42,9 @@ export default {
 <style scoped>
 .navbar-brand img {
   height: 30px;
+}
+.navbar{
+  background: black;
 }
 
 	

@@ -53,7 +53,7 @@ body {
 }
 
 body {
-  background: #eee;
+  background: rgb(0, 0, 0);
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 30px;
   color: #000;
@@ -62,6 +62,7 @@ body {
 }
 
 .swiper {
+    margin-top: 20px;
   width: 100%;
   height: 100%;
 }
@@ -69,7 +70,7 @@ body {
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: #fff;
+
 
   /* Center slide text vertically */
   display: -webkit-box;
@@ -100,8 +101,8 @@ body {
 
 .mySwiper img {
 
-    border-bottom: 30px solid white;
-    border-radius: 40px 40px 0 0;
+    border-radius: 40px;
+    border-bottom: 35px solid rgb(176, 0, 0,.8);
     height: 650px;
     width: 1100px;
 }
@@ -115,6 +116,4 @@ body {
 }
 }
     
-
-
 </style>

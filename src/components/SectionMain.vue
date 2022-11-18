@@ -5,21 +5,18 @@
                 <div class="col-lg-8">
                     <div class="trending__product">
                         <div class="row">
-                            <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="col-lg-12 col-md-8 col-sm-8">
                                 <div class="section-title">
                                     <h4>Animes lançamento</h4>
+									<a href="#" class="primary-btn">Veja todos</a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="btn__all">
-                                    <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
-                                </div>
-                            </div>
-                        </div>ß
+                        </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/trending/trend-1.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="https://stc.animestc.com/1664816643395-image-thumbnail.jpg">
+                                        <img src="https://stc.animestc.com/1664816643395-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -35,7 +32,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/trending/trend-2.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="https://stc.animestc.com/1656559956370-image-thumbnail.jpg">
+                                        <img src="https://stc.animestc.com/1656559956370-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -52,6 +50,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-3.jpg">
+                                        <img src="https://stc.animestc.com/1664895822648-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -68,6 +67,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-4.jpg">
+                                        <img src="https://stc.animestc.com/1664896154548-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -84,6 +84,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-5.jpg">
+                                        <img src="https://stc.animestc.com/1665494620108-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -100,6 +101,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/trending/trend-6.jpg">
+                                        <img src="https://stc.animestc.com/1665683074146-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -117,14 +119,10 @@
                     </div>
                     <div class="popular__product">
                         <div class="row">
-                            <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="col-lg-12 col-md-8 col-sm-8">
                                 <div class="section-title">
-                                    <h4>Popular Shows</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="btn__all">
-                                    <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
+                                    <h4>Animes lançamento</h4>
+									<a href="#" class="primary-btn">Veja todos</a>
                                 </div>
                             </div>
                         </div>
@@ -132,6 +130,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-1.jpg">
+                                        <img src="https://stc.animestc.com/1657290445263-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -147,7 +146,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/popular/popular-2.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/popular/popular-2.jpg">
+                                        <img src="https://stc.animestc.com/1664981706844-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -164,7 +164,8 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-3.jpg">
-                                        <div class="ep">18 / 18</div>
+                                        <img src="https://stc.animestc.com/1664632991792-image-thumbnail.jpg" alt="">
+										<div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                     </div>
@@ -180,6 +181,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-4.jpg">
+										<img src="https://stc.animestc.com/1665220992635-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -196,6 +198,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/popular/popular-5.jpg">
+										<img src="https://stc.animestc.com/1664811538031-image-thumbnail.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -211,7 +214,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/popular/popular-6.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/popular/popular-6.jpg">
+										<img src="../img/popular/popular-6.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -229,21 +233,18 @@
                     </div>
                     <div class="recent__product">
                         <div class="row">
-                            <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="col-lg-12 col-md-8 col-sm-8">
                                 <div class="section-title">
-                                    <h4>Recently Added Shows</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="btn__all">
-                                    <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
+                                    <h4>Animes lançamento</h4>
+									<a href="#" class="primary-btn">Veja todos</a>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/recent/recent-1.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/recent/recent-1.jpg">
+										<img src="../img/recent/recent-1.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -259,7 +260,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/recent/recent-2.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/recent/recent-2.jpg">
+										<img src="../img/recent/recent-2.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -276,6 +278,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/recent/recent-3.jpg">
+										<img src="../img/recent/recent-3.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -292,6 +295,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/recent/recent-4.jpg">
+										<img src="../img/recent/recent-4.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -307,7 +311,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/recent/recent-5.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/recent/recent-5.jpg">
+										<img src="../img/recent/recent-5.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -323,7 +328,8 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
-                                    <div class="product__item__pic set-bg" data-setbg="img/recent/recent-6.jpg">
+                                    <div class="product__item__pic set-bg" data-setbg="../img/recent/recent-6.jpg">
+										<img src="../img/recent/recent-6.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -341,14 +347,10 @@
                     </div>
                     <div class="live__product">
                         <div class="row">
-                            <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="col-lg-12 col-md-8 col-sm-8">
                                 <div class="section-title">
-                                    <h4>Live Action</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="btn__all">
-                                    <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
+                                    <h4>Filmes</h4>
+									<a href="#" class="primary-btn">Veja todos</a>
                                 </div>
                             </div>
                         </div>
@@ -356,6 +358,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-1.jpg">
+										<img src="../img/live/live-1.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -372,6 +375,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-2.jpg">
+										<img src="../img/live/live-2.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -388,6 +392,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-3.jpg">
+										<img src="../img/live/live-3.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -404,6 +409,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-4.jpg">
+										<img src="../img/live/live-4.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -420,6 +426,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-5.jpg">
+										<img src="../img/live/live-5.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -436,6 +443,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="product__item">
                                     <div class="product__item__pic set-bg" data-setbg="img/live/live-6.jpg">
+										<img src="../img/live/live-6.jpg" alt="">
                                         <div class="ep">18 / 18</div>
                                         <div class="comment"><i class="fa fa-comments"></i> 11</div>
                                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
@@ -458,39 +466,37 @@
                             <div class="section-title">
                                 <h5>Top Views</h5>
                             </div>
-                            <ul class="filter__controls">
-                                <li class="active" data-filter="*">Day</li>
-                                <li data-filter=".week">Week</li>
-                                <li data-filter=".month">Month</li>
-                                <li data-filter=".years">Years</li>
-                            </ul>
                             <div class="filter__gallery">
-                                <div class="product__sidebar__view__item set-bg mix day years"
-                                data-setbg="img/sidebar/tv-1.jpg">
+                                <div class="product__sidebar__view__item set-bg mix day years">
+									<img src="../img/sidebar/tv-1.jpg" alt="">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
                                 <h5><a href="#">Boruto: Naruto next generations</a></h5>
                             </div>
                             <div class="product__sidebar__view__item set-bg mix month week"
                             data-setbg="img/sidebar/tv-2.jpg">
+							<img src="../img/sidebar/tv-2.jpg" alt="">
                             <div class="ep">18 / ?</div>
                             <div class="view"><i class="fa fa-eye"></i> 9141</div>
                             <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                         </div>
                         <div class="product__sidebar__view__item set-bg mix week years"
                         data-setbg="img/sidebar/tv-3.jpg">
+						<img src="../img/sidebar/tv-3.jpg" alt="">
                         <div class="ep">18 / ?</div>
                         <div class="view"><i class="fa fa-eye"></i> 9141</div>
                         <h5><a href="#">Sword art online alicization war of underworld</a></h5>
                     </div>
                     <div class="product__sidebar__view__item set-bg mix years month"
-                    data-setbg="img/sidebar/tv-4.jpg">
+                    data-setbg="../img/sidebar/tv-4.jpg">
+					<img src="../img/sidebar/tv-4.jpg" alt="">
                     <div class="ep">18 / ?</div>
                     <div class="view"><i class="fa fa-eye"></i> 9141</div>
                     <h5><a href="#">Fate/stay night: Heaven's Feel I. presage flower</a></h5>
                 </div>
                 <div class="product__sidebar__view__item set-bg mix day"
-                data-setbg="img/sidebar/tv-5.jpg">
+                data-setbg="../img/sidebar/tv-5.jpg">
+				<img src="../img/sidebar/tv-5.jpg" alt="">
                 <div class="ep">18 / ?</div>
                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
                 <h5><a href="#">Fate stay night unlimited blade works</a></h5>
@@ -499,11 +505,11 @@
     </div>
     <div class="product__sidebar__comment">
         <div class="section-title">
-            <h5>New Comment</h5>
+            <h5>Ova`s</h5>
         </div>
         <div class="product__sidebar__comment__item">
             <div class="product__sidebar__comment__item__pic">
-                <img src="img/sidebar/comment-1.jpg" alt="">
+                <img src="../img/sidebar/comment-1.jpg" alt="">
             </div>
             <div class="product__sidebar__comment__item__text">
                 <ul>
@@ -516,7 +522,7 @@
         </div>
         <div class="product__sidebar__comment__item">
             <div class="product__sidebar__comment__item__pic">
-                <img src="img/sidebar/comment-2.jpg" alt="">
+                <img src="../img/sidebar/comment-2.jpg" alt="">
             </div>
             <div class="product__sidebar__comment__item__text">
                 <ul>
@@ -529,7 +535,7 @@
         </div>
         <div class="product__sidebar__comment__item">
             <div class="product__sidebar__comment__item__pic">
-                <img src="img/sidebar/comment-3.jpg" alt="">
+                <img src="../img/sidebar/comment-3.jpg" alt="">
             </div>
             <div class="product__sidebar__comment__item__text">
                 <ul>
@@ -542,7 +548,7 @@
         </div>
         <div class="product__sidebar__comment__item">
             <div class="product__sidebar__comment__item__pic">
-                <img src="img/sidebar/comment-4.jpg" alt="">
+                <img src="../img/sidebar/comment-4.jpg" alt="">
             </div>
             <div class="product__sidebar__comment__item__text">
                 <ul>
@@ -566,7 +572,32 @@ export default {
 }
 </script>
 <style>
-    
+.section-title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(176, 0, 0,.8);
+	margin-bottom: 15px;
+	color: white;
+	border-radius: 20px 20px 0 0;
+
+}
+h4 {
+	color: #ffffff;
+	font-weight: 600;
+	font-family: "Oswald", sans-serif;
+	line-height: 21px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	padding-left: 20px;
+	position: relative;
+}
+
+.row {
+	margin-top: -10px;
+}
 /*---------------------
   Product
 -----------------------*/
@@ -678,18 +709,12 @@ export default {
 	position: relative;
 }
 
-.product__sidebar .section-title h5:after {
-	position: absolute;
-	left: 0;
-	top: -6px;
-	height: 32px;
-	width: 4px;
-	background: #e53637;
-	content: "";
-}
+
 
 .product__sidebar__view {
+	background: #070720;
 	position: relative;
+	border-radius: 20px;
 	margin-bottom: 80px;
 }
 
@@ -2194,4 +2219,5 @@ export default {
 		padding: 18px 20px 20px;
 	}
 }
+
 </style>
