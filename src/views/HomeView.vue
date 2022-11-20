@@ -16,7 +16,7 @@
                           <div class="row">
                               <div class="col-lg-4 col-md-6 col-sm-6">
                                   <div class="product__item">
-                                      <div class="product__item__pic set-bg" data-setbg="https://stc.animestc.com/1664816643395-image-thumbnail.jpg">
+                                      <div href="/player" class="product__item__pic set-bg" data-setbg="https://stc.animestc.com/1664816643395-image-thumbnail.jpg">
                                           <img src="https://stc.animestc.com/1664816643395-image-thumbnail.jpg" alt="">
                                           <div class="ep">18 / 18</div>
                                           <div class="comment"><i class="fa fa-comments"></i> 11</div>
