@@ -14,17 +14,18 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">Home</a>
+          <a class="estiloNavBar nav-link active" aria-current="page" href="/">Home</a>
         </li>
-        <li class="nav-item">
+        <li class="estiloNavBar nav-item">
           <a class="nav-link" href="/player">Animes</a>
         </li>
-        <li class="nav-item">
+        <li class="estiloNavBar nav-item">
           <a class="nav-link" href="#">Filmes</a>
         </li>
-        <li class="nav-item">
+        <li class="estiloNavBar nav-item">
           <a class="nav-link" disabled>Mangas</a>
         </li>
+        
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Anime" aria-label="Search">
@@ -67,7 +68,11 @@ export default {
 .botaoPesquisa:hover{
   background-color: red;
   color: white;
-  border: 1px solid black;
+}
+
+.estiloNavBar:hover{
+  transition: .3s;
+  border-bottom: 3px solid red;
 }
 
 
