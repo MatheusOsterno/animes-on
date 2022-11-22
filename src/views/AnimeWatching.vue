@@ -111,20 +111,21 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style scoped>
 button {
     margin-bottom: 30px;
 }
+
 #color {
-    background-color: rgb(176, 0, 0,.8);
+    background-color: rgb(176, 0, 0, .8);
     transition: 0.4s;
- }
+}
 
 #color:hover {
-    background-color: rgb(176, 0, 0);;
+    background-color: rgb(176, 0, 0);
+    ;
 }
-    
 </style>

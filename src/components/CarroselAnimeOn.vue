@@ -60,7 +60,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 .swiper {
     margin-top: 20px;
   width: 100%;
