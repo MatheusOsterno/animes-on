@@ -1,7 +1,9 @@
 # AnimeOn
 
 <div align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH5vp2dVN16IA/feedshare-shrink_800/0/1669196206967?e=1672272000&v=beta&t=Dun0sBg7MhVAr1FkXayorcsufs2XvLhmcUwGdZ99B90" width="700px">
+
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH5vp2dVN16IA/feedshare-shrink_800/0/1669196206967?e=1672272000&v=beta&t=Dun0sBg7MhVAr1FkXayorcsufs2XvLhmcUwGdZ99B90" width="600px">
+  
 </div>
 
 
