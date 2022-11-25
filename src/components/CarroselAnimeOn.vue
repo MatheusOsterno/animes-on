@@ -16,6 +16,9 @@
       <swiper-slide><img src="@/img/hero/naruto-uzumaki-naruto-38828-2560x1600.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="@/img/hero/hero-1.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="@/img/hero/jujutsu_kaisen_itadori_yuuji_wallpaper_by_muztnafi_deg6kcz-350t.jpg" alt=""></swiper-slide>
+      <swiper-slide><img src="@/img/hero/1046568.jpg" alt=""></swiper-slide>
+      <swiper-slide><img src="@/img/hero/13.jpg" alt=""></swiper-slide>
+      <swiper-slide><img src="@/img/hero/download.jpg" alt=""></swiper-slide>
     </swiper>
   </template>
   <script>
@@ -70,7 +73,6 @@ body {
   text-align: center;
   font-size: 18px;
 
-
   /* Center slide text vertically */
   display: -webkit-box;
   display: -ms-flexbox;
@@ -85,14 +87,12 @@ body {
   -webkit-align-items: center;
   align-items: center;
 }
-
-.swiper-slide img {
+swiper-slide img {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-
 .swiper {
   margin-left: auto;
   margin-right: auto;
@@ -114,5 +114,5 @@ body {
         width: 600px;
 }
 }
-    
+   
 </style>
