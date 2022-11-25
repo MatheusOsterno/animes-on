@@ -1,9 +1,7 @@
 # AnimeOn
 
 <div align="center">
-
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH5vp2dVN16IA/feedshare-shrink_800/0/1669196206967?e=1672272000&v=beta&t=Dun0sBg7MhVAr1FkXayorcsufs2XvLhmcUwGdZ99B90" width="600px">
-  
+  <img src="https://user-images.githubusercontent.com/109709293/204043405-d61cf239-b780-4d12-b761-7794042b9b95.png">
 </div>
 
 
